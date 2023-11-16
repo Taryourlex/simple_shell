@@ -45,7 +45,7 @@ void info_setup(info_t *info, char **av)
 }
 
 /**
- * info_free - frees inddfo_t struct fields
+ * info_free - to free inddfo_t struct fields
  * @info: struct adssdress
  * @all: true if freeinddg all fields
  */
