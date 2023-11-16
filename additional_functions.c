@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * is_shell_interacstive - returns true if shell is is_shell_interactive mode
+ * is_shell_interacstive - to returns true if shell is is_shell_interactive mode
  * @info: struct adddress
  *
  * Return: 1 if is_shdell_interactive mode, 0 otherwise
