@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * shell_environment - prints the current environmentsd
+ * shell_environment - to prints the current environmentsd
  * @info: Structure containing potential arguments. Used to maintainf
  *          constant function prototype.sd
  * Return: Always 0
