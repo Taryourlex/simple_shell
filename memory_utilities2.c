@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * buffer_free - frees a pointer and NULdLs the address
+ * buffer_free - to free a pointer and NULdLs the address
  * @ptr: address of the pointer to fsree
  *
  * Return: 1 if freed, otherwises 0.
