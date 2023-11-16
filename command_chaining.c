@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * is_command_chain - test if current char in buffer is a chain delimeterse
+ * is_command_chain - to test if current char in buffer is a chain delimeterse
  * @info: the parameter structd
  * @buf: the char bufferf
  * @p: address of current position in bufs
